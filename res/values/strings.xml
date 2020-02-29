@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="s">天下一定是我的</string>
+    <string name="index_raw_price">距离特卖</string>
+    <string name="edit_key">请输入</string>
+    <string name="image_content">清除</string>
+    <string name="login_et_account_txt">输入账户</string>
+    <string name="Upload">上传</string>
+    <string name="Download">下载</string>
+    <string name="Error">Error</string>
+    <string name="Complete">Complete</string>
+    <string name="bottome_menu">BottomView</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_filemanage">FileMnage</string>
+    <string name="menu_downloadmanage">DownloadManage</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_about">About</string>
+    <string name="title_index">自定义分类</string>
+    <string name="title_about">示例</string>
+    <string name="long_txt">　能解决北京户口”、“一经录用就解决留京指标”，昨天，在清华大学举行的2015届毕业生就业洽谈会上，很多在京招聘单位的招聘广告标出“北京户口”这张王牌，北京晨报记者发现有公司是手写的，临时贴到自己招聘展台前，以吸引清华大学的毕业生。据了解，2015年，清华大学预计毕业生7000人，除继续深造、进修的学生外，参加就业的本科生约800人，研究生约3200人，近230家来自全国各地的用人单位，提供了约3万个招聘职位。清华大学今年首次启用新媒体，毕业生扫描单位展台上的二维码即可快速阅读用人单位的基本情况和职位说明。</string>
+    <string name="dia_txt">你想做什么呢？我想和你成为好朋友。　</string>
+    <string name="vertical">  好雨知时节,当春乃发生.随风潜入夜,润物细无声.野径云俱黑,江船火独明.晓看红湿处,花重锦官城.　</string>
+    <string name="content">在当今世界风云变换、物欲横流的时代拥有一颗备受熏陶的热爱自然、社会和人类的心至为重要。一个人在坠地的那刻起就有着一颗特殊的爱，不仅仅是源自于母爱，更多的是来自己自己内心的细胞，我们可以说是“自尊自爱”之心。唯有懂得爱惜自己尊重自己的人才能“己所不欲勿施于人”，才能做到“老吾老以及人之老，幼吾幼以及人之幼”，进而具备“穷则独善其身，达则兼济天下”的中华民族传统美德。这样一说范围就被我扩大了。</string>
+
+</resources>
+
